@@ -1,5 +1,5 @@
 # Projeto-Finance
-Site feito com o framework Flask e a base de dados em sqlite3, hospedado com pythonanywhere, (pode ficar inativo pois tem que ser reiniciado a cada 3 meses e a chave api a cada 1 mês) 
+Site feito com o framework Flask e a base de dados em sqlite3, hospedado com pythonanywhere, (pode ficar inativo pois tem que ser reiniciado a cada 3 meses e a chave api a cada 1 mês mas o site é igual às fotos abaixo) 
 
 <h2>Tela de Registro:</h2>
 
