@@ -57,6 +57,8 @@ nav .navbar-brand .green
 /* Style for inputs */
 input[name="symbol"] {text-transform: uppercase}
 
+::placeholder {text-transform:none}
+
 /* Style for portfolios table */
 table {
     margin: 0 auto;
