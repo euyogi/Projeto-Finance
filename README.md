@@ -8,7 +8,7 @@ Site feito com o framework Flask, api da IEX e a base de dados em sqlite3, hospe
 
 <h2>Para testar:</h2>
 
-<a align="center" href="https://projeto-finance.vercel.app/">Abrir Projeto-Finance</a>
+<a align="center" href="https://euyogi.pythonanywhere.com/">Abrir Projeto-Finance</a>
 
 <h2>Tela de Registro:</h2>
 
